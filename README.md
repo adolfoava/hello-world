@@ -1,3 +1,3 @@
 # hello-world
 This is my first repo.
-Testing the fisrt modification
+Testing the first modification
